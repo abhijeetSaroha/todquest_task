@@ -17,7 +17,7 @@ A Flutter app that allows users to add their name, email, and the source from wh
 ## **Installation**
 * Clone the repository:
 
-`git clone https://github.com/<username>/<repository>.git`
+`git clone https://github.com/abhijeetSaroha/todyquest_task.git`
 
 * Change into the project directory:
 
